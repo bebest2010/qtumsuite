@@ -1,13 +1,3 @@
-/*
- * *******************************************************************
- * @项目名称: qtumutil
- * @文件名称: qtumwif.go
- * @Date: 2018/12/12
- * @Author: Jia Liu
- * @Copyright（C）: 2018 BlueHelix Inc.   All rights reserved.
- * 注意：本内容仅限于内部传阅，禁止外泄以及用于其他的商业目的.
- * *******************************************************************
- */
 // Copyright (c) 2013-2016 The btcsuite developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
